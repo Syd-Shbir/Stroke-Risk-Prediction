@@ -1,7 +1,7 @@
 # Stroke-Risk-Prediction
 
 ## Project Overview
-This project aims to predict stroke risk using machine learning techniques based on a dataset containing demographic, medical history, and lifestyle factors Given the highly imbalanced nature of stroke occurrences in the dataset, special attention was given to data preprocessing, feature selection, and balancing techniques** to improve predictive accuracy. The ultimate goal is to develop a reliable and interpretable model that can assist healthcare professionals and individuals in identifying high-risk patients and promoting early preventive measures.
+This project aims to predict stroke risk using machine learning techniques based on a dataset containing demographic, medical history, and lifestyle factors Given the highly imbalanced nature of stroke occurrences in the dataset, special attention was given to data preprocessing, feature selection, and balancing techniques to improve predictive accuracy. The ultimate goal is to develop a reliable and interpretable model that can assist healthcare professionals and individuals in identifying high-risk patients and promoting early preventive measures.
 
 ## Key Features
 - **Exploratory Data Analysis (EDA)** to understand stroke distributions and key contributing factors.
